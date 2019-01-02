@@ -11,6 +11,8 @@ namespace hudai
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            //this is test git
+            //second test
             string s1 = "abcd";
             string s2 = "acdqrt";
             var both = s1.Intersect(s2);
